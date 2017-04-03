@@ -1,0 +1,17 @@
+body {
+    background: grey;
+    text-align: center;
+}
+.sbig {
+    font-size: 70px;
+}
+.big {
+    font-size: 30px;
+}
+a {
+    color: blue;
+}
+.credits {
+    margin-top: 100px;
+    text-align: right;
+}
