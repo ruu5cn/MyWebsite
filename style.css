@@ -1,8 +1,6 @@
 body {
-    background: grey;
+    background: #a5f6ff;
     text-align: center;
-    background-image: url('https://www.mlbstatic.com/mlb.com/images/share/138.jpg');
-    background-size: 100%;
 }
 .sbig {
     font-size: 70px;
